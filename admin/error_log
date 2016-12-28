@@ -1,0 +1,8 @@
+[31-May-2016 10:46:28 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/worldtech/public_html/spanbeauty.com/admin/controller/customer/customer.php on line 1114
+[31-May-2016 10:51:33 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/worldtech/public_html/spanbeauty.com/admin/controller/customer/customer.php on line 1114
+[31-May-2016 10:51:34 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/worldtech/public_html/spanbeauty.com/admin/controller/customer/customer.php on line 1114
+[02-Jun-2016 03:52:46 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/worldtech/public_html/spanbeauty.com/admin/controller/customer/customer.php on line 1114
+[02-Jun-2016 03:54:35 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/worldtech/public_html/spanbeauty.com/admin/controller/customer/customer.php on line 1114
+[02-Jun-2016 03:54:36 UTC] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ')' in /home/worldtech/public_html/spanbeauty.com/admin/controller/customer/customer.php on line 1114
+[07-Jun-2016 06:03:08 UTC] PHP Warning:  require_once(/home/worldtech/public_html/spanbeauty.com/riwigo/system/startup.php): failed to open stream: No such file or directory in /home/worldtech/public_html/spanbeauty.com/admin/index.php on line 23
+[07-Jun-2016 06:03:08 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/worldtech/public_html/spanbeauty.com/riwigo/system/startup.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/worldtech/public_html/spanbeauty.com/admin/index.php on line 23
